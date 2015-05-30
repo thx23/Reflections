@@ -12,3 +12,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 - so you can resolve conflicts when you're ready to work on them
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- forking happens on Github which is basically cloning another Github repository
+- clone a repository that existes in my Github profile
+	- it may have been forked from another repo or it may have been added by myself
+- branch occurs locally
+
+ 
+
