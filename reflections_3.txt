@@ -3,3 +3,12 @@ When would you want to create a remote repo rather than keeping all your work lo
 - If more than one person will be using the files
 - If using more than one computer
 - To ensure files are backed up on another device
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+-  maybe you need to work with an older version of a file in the repository until you get your changes made to the file that you're working on
+
+- so that it doesn't stomp on changes that you're making to a file in the repo
+
+- so you can resolve conflicts when you're ready to work on them
+
