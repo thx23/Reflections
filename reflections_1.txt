@@ -1,0 +1,23 @@
+Reflections
+ adding notes for homework
+
+ Some version control systems:
+ 	Dropbox
+ 	Google drive
+ 	Wikipedia    - all have versioning built in
+
+
+When to commit?
+	It's easier to understand what each commit does if each only does one thing and is fairly small. Going a week without committing is not the best idea.
+
+Don’t clutter your history with typo fixes.
+
+All the work is on a single feature, so the commit will have a clear logical purpose. After an hour, the diff will probably have a fair amount of content in it, but not too much to understand.
+
+If bug fixes are related, commit them together.  Else, separately.
+
+How might using version control make you more confident to make changes that could break something?  Version control allows a user to revert files to a previous version so they can make changes without having to worry about losing work that had been done.
+
+
+
+ 	
