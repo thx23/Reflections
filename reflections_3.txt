@@ -21,4 +21,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - branch occurs locally
 
  
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+- if there is no internet connection, Git knows the last state
